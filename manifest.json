@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "ActiveState",
+  "repo": "ez_setup",
+  "versions": [
+    {
+      "commit": "3afe93e5b1bb1c3dd8c37cff614d00a41215c6f1",
+      "parsed_at": "2026-04-13T00:40:17.342270+00:00",
+      "tag": "v0.9",
+      "filetree": "filetree/3afe93e5b1bb1c3dd8c37cff614d00a41215c6f1.nq.gz",
+      "blobs": [
+        "blob/3ea2e667f1eda6cf54465a0acccfdff587a60663.nq.gz",
+        "blob/c0510a9573b25f928aea92cbf2c0c9a52b508355.nq.gz",
+        "blob/659163648ccf8a0076c788c1300a2ed4cf228c8b.nq.gz",
+        "blob/dfb5e0103c76c72ae5c976b163bcd11cdf3acc11.nq.gz",
+        "blob/fba2675ae7ece409d2d0d6b1f1be910eb3aaa4e4.nq.gz",
+        "blob/3f52e52fb5c451d71c8cacf047990ae2ceed1144.nq.gz",
+        "blob/1e7e5684768fe0489618cb06dc1e19f9d3d36e75.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
